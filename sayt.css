@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    
+    
+    
+    }
+    .header{
+    height: 75px;
+    background: rgba(255, 245, 245, 0.466) ;
+                   
+    top: 0;
+    left:0;
+    right:0
+    }
+        .clear{
+clear: both;
+        
+    
+    
+    
+    }
+    .header .menu{
+        float: right;
+    }
+    .header .menu ul li{
+        padding: 14px;
+        display: inline-block
+    }
+    .logo{
+    color: black;
+        float:left ;
+        padding: 30px 0;
+    }
+    .birinci{
+        float: right;
+    }
+    .button{
+    float: right;
+    padding-right: 80px
+    
+    }
+    .content{
+    
+    background: color #777;
+   width:   980px;
+  margin:0 auto;
+    
+
+    
+    }
+    
+    .ikinci{
+    padding-bottom: 30px;
+    padding-top: 60px;
+    padding-left: 30px
+    
+    }
+    .ucuncu{
+        font-family: poppins,sans-serif;
+        padding-left: 30px
+        
+    }
+    .dorduncu{
+    
+        color: #777;
+        font-family: poppins,sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        padding-left: 30px
+    }
+    .besinci{
+    
+        background-color: #8490ff;
+        color: orchid;
+        padding-left: 35px;
+        margin: 50px
+    
+    }
+    .altinci{
+    float: right;
+   
+    padding-top: 2px;
+    
+    
+    
+    }
+    .alt .content{
+    padding-top :30px;
+    
+    
+    }
+    .clear{
+        clear:both;
+    }
+    .left{
+        float:left;
+        width:50%;
+    }
+   .content .right{
+        float:left;
+        width:50%;
+    }
+.rightt{
+    
+ 
+    padding-right:  1px;
+    padding-left: 800px;
+   
+    padding-top: -1500px
+
+
+}
+.tesdiqlenme{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #8490ff;
+    color: #fff;
+    background: -webkit-linear-gradient(0deg,#8490ff 0%,#62bdfc 100%);
+    
+}
+.clear{
+
+    clear: both;
+
+}
+.container{
+
+    float:right;
+    padding-right:-60px
+}
+.rr{
+
+    position: relative;
+    right:300px;
+
+}
+.ss{
+position: relative;
+right: 300px
+}
+.wekil{
+position: relative;
+right: 600px;
+height: 100;
+width:70 ;
+
+
+}
+.yy{
+    position: relative;
+    right: 600px;
+}
+.hh{
+    position: relative;
+    right:600px;
+
+}
+.ll{
+    position: relative;
+    right :280px;
+    bottom: 130px;
+
+
+}
+.ww{
+    position: relative;
+    right: 290px;
+    bottom:150px
+}
+.jj{
+    position: relative;
+    bottom: 400px;
+    left: 80px;
+}
+.re{
+    position: relative;
+    bottom:330px;
+    left: 80px;
+}
